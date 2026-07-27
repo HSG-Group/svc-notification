@@ -1,0 +1,30 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Go binaries and builds
+bin/
+/tmp/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.prof
+
+# Go test coverage files
+*.out
+*.coverprofile
+
+# Go dependency directories (if using vendoring)
+vendor/
